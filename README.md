@@ -1,2 +1,2 @@
 # LCDs
-A repository to store and manage code controlling 16*2 LCDs using the I2C protocol, the LCDisplay_I2C library and microcontrollers.
+This repository houses simply and ready-to-use code to control a 16*2 LCD Display using the I2C protocol.
